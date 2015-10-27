@@ -17,7 +17,7 @@ namespace CheckLowRate
             actual = 5.65;
             if (pay < actual)
             {
-                Console.WriteLine("Go fuck yourself.");
+                Console.WriteLine("error");
             }
         }
     }
