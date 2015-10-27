@@ -1,0 +1,4 @@
+C:\Users\EAHS CS\Desktop\CS_Chapter3\CS_Chapter3\CheckLowRate\bin\Debug\CheckLowRate.exe
+C:\Users\EAHS CS\Desktop\CS_Chapter3\CS_Chapter3\CheckLowRate\bin\Debug\CheckLowRate.pdb
+C:\Users\EAHS CS\Desktop\CS_Chapter3\CS_Chapter3\CheckLowRate\obj\x86\Debug\CheckLowRate.exe
+C:\Users\EAHS CS\Desktop\CS_Chapter3\CS_Chapter3\CheckLowRate\obj\x86\Debug\CheckLowRate.pdb

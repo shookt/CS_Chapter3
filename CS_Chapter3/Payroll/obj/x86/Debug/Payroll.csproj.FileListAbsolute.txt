@@ -1,0 +1,4 @@
+C:\Users\EAHS CS\Desktop\CS_Chapter3\CS_Chapter3\Payroll\bin\Debug\Payroll.exe
+C:\Users\EAHS CS\Desktop\CS_Chapter3\CS_Chapter3\Payroll\bin\Debug\Payroll.pdb
+C:\Users\EAHS CS\Desktop\CS_Chapter3\CS_Chapter3\Payroll\obj\x86\Debug\Payroll.exe
+C:\Users\EAHS CS\Desktop\CS_Chapter3\CS_Chapter3\Payroll\obj\x86\Debug\Payroll.pdb

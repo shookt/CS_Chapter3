@@ -1,0 +1,4 @@
+C:\Users\EAHS CS\Desktop\CS_Chapter3\CS_Chapter3\EnsureValidPayRate\bin\Debug\EnsureValidPayRate.exe
+C:\Users\EAHS CS\Desktop\CS_Chapter3\CS_Chapter3\EnsureValidPayRate\bin\Debug\EnsureValidPayRate.pdb
+C:\Users\EAHS CS\Desktop\CS_Chapter3\CS_Chapter3\EnsureValidPayRate\obj\x86\Debug\EnsureValidPayRate.exe
+C:\Users\EAHS CS\Desktop\CS_Chapter3\CS_Chapter3\EnsureValidPayRate\obj\x86\Debug\EnsureValidPayRate.pdb

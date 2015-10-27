@@ -1,0 +1,4 @@
+C:\Users\EAHS CS\Desktop\CS_Chapter3\CS_Chapter3\Furniture\bin\Debug\Furniture.exe
+C:\Users\EAHS CS\Desktop\CS_Chapter3\CS_Chapter3\Furniture\bin\Debug\Furniture.pdb
+C:\Users\EAHS CS\Desktop\CS_Chapter3\CS_Chapter3\Furniture\obj\x86\Debug\Furniture.exe
+C:\Users\EAHS CS\Desktop\CS_Chapter3\CS_Chapter3\Furniture\obj\x86\Debug\Furniture.pdb
