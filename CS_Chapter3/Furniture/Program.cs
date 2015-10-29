@@ -9,6 +9,7 @@ namespace Furniture
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
