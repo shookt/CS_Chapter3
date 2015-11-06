@@ -11,22 +11,33 @@ namespace Payroll
         {
             string input, input2;
             double pay, hours, gross, withhold, net;
-            Console.WriteLine("Input your hourly pay rate.");
+
+            // Get the hourly pay rate from the user
+            Console.Write("Input your hourly pay rate: ");
             input = Console.ReadLine();
             pay = Convert.ToDouble(input);
-            Console.WriteLine("Input the amount of hours you work.");
+            
+            // Now find out how many hours they worked
+            Console.Write("Input the hours you work: ");
             input2 = Console.ReadLine();
             hours = Convert.ToDouble(input2);
+
+            Console.WriteLine();
+            
+            // Calculate gross and net pay
             gross = pay * hours;
             withhold = 0;
             if (gross <= 300)
-            withhold = withhold + .10;
+                withhold = gross * 0.10;
             else if (gross > 300)
-                withhold = withhold + .12;
-            net = gross - (withhold * gross);
-            Console.WriteLine(gross);
-            Console.WriteLine(withhold);
-            Console.WriteLine(net);
+                withhold = gross * 0.12;
+            net = gross - withhold;
+
+
+            // Display output to the user
+            Console.WriteLine("Gross Pay:       " + gross.ToString("C").PadLeft(10));
+            Console.WriteLine("Withholding Tax: " + withhold.ToString("C").PadLeft(10));
+            Console.WriteLine("Net Pay:         " + net.ToString("C").PadLeft(10));
         }
     }
 }
